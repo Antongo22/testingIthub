@@ -1,0 +1,1 @@
+{"uuid": "bc754425-204a-4944-9aa6-89b530a77882", "children": ["43a50eb6-b8de-47f5-8e49-5527b1805582"], "befores": [{"name": "create_order", "status": "passed", "steps": [{"name": "Создание тестового заказа", "status": "passed", "start": 1730374194240, "stop": 1730374194931}], "start": 1730374194240, "stop": 1730374194931}], "start": 1730374194240, "stop": 1730374196088}
