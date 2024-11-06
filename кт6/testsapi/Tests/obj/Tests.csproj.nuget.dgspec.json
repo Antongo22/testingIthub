@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\testsapi\\testsapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\testsapi\\testsapi.csproj",
+        "projectName": "testsapi",
+        "projectPath": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\testsapi\\testsapi.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\testsapi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.voids.site/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Allure.Net.Commons": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Ark.Tools.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.1.7, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.voids.site/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\testsapi\\testsapi.csproj": {
+                "projectPath": "C:\\Users\\anton\\Desktop\\Полезные файлы\\Учёба\\ITHub\\3 курс\\1 семестр\\Тестирование\\кт6\\testsapi\\testsapi\\testsapi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.0, )",
+              "versionOverride": "[3.6.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.6.0, )",
+              "versionOverride": "[3.6.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.6.0, )",
+              "versionOverride": "[3.6.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.0, )",
+              "versionOverride": "[17.11.0, )"
+            },
+            "Microsoft.Testing.Extensions.CodeCoverage": {
+              "target": "Package",
+              "version": "[17.12.4, )",
+              "versionOverride": "[17.12.4, )"
+            },
+            "Microsoft.Testing.Extensions.TrxReport": {
+              "target": "Package",
+              "version": "[1.4.0, )",
+              "versionOverride": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
